@@ -1,3 +1,5 @@
+// Copyright (c) Meta Platforms, Inc. and affiliates.
+
 using Oculus.Interaction;
 using Oculus.Interaction.Input;
 using UnityEngine;
