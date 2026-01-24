@@ -15,7 +15,7 @@ It was built using the [Unity engine](https://unity.com/) with [Photon Fusion](h
 ## How to Run the Project in Unity
 
 1. [Configure the project](./Documentation/Configuration.md) with Meta Quest and Photon
-2. Make sure you're using  *Unity 6000.0.50f1* or newer.
+2. Make sure you're using  *Unity 6000.0.59f2* or newer.
 3. Load the [Assets/Discover/Scenes/Discover](./Assets/Discover/Scenes/Discover.unity) scene.
 4. To test in the Editor, you'll need to use Quest Link:
     <details>
@@ -32,7 +32,7 @@ It was built using the [Unity engine](https://unity.com/) with [Photon Fusion](h
 
 This project uses the following plugins and software:
 
-- [Unity](https://unity.com/download) 6000.0.50f1 or newer
+- [Unity](https://unity.com/download) 6000.0.59f2 or newer
 - [Dependencies Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter.git#upm)
 - [Meta Avatars SDK](https://developers.meta.com/horizon/downloads/package/meta-avatars-sdk/)
 - [Meta XR Utilities](https://developers.meta.com/horizon/documentation/unity/unity-package-manager/)
