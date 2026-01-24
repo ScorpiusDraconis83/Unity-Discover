@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 12/10/2025
+### Update
+Update to Meta XR SDKs v81
+Update to Meta Avatar SDK v40.0.1
+Update to AppID 1.1.2
+
 ## 10/02/2025
 ### Update
 Updated ISDK Hands to OpenXR.
