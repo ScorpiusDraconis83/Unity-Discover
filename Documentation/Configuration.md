@@ -4,7 +4,7 @@ To make this project functional in the editor and on a device, some initial setu
 
 ## Application Configuration
 
-To run the project and use platform services, create an application on the [Meta Quest Developer Center](https://developers.meta.com/horizon/).
+To run the project and use platform services, create an application on the [Meta Quest Developer Dashboard](https://developers.meta.com/horizon/manage).
 
 For device operation, you need a Quest application, and for editor operation, a PC VR application. The following sections describe the necessary configuration.
 
